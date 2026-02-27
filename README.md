@@ -31,7 +31,6 @@ Experiments currently use the [**Gait in Parkinson’s Disease Database (GaitPDB
 ├── data/            # Data organization
 ├── notebooks/       # Exploratory analysis and experimental workflows
 ├── results/         # Figures, tables, and experimental outputs
-└── docs/            # Supporting documentation
 ```
 
 ## 🔬 Methods
