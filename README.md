@@ -1,6 +1,6 @@
 # HAILab — Unsupervised Learning for Neurodegenerative Disease Analysis
 
-This repository contains experiments developed at the **Health and Artificial Intelligence Laboratory (HAILab)** as part of an undergraduate research project focused on the application of **unsupervised machine learning methods** to the analysis of human gait data for the investigation of neurodegenerative diseases.
+This repository contains experiments developed at the **Human and Artificial Intelligence Laboratory (HAILab)** as part of an undergraduate research project focused on the application of **unsupervised machine learning methods** to the analysis of human gait data for the investigation of neurodegenerative diseases.
 
 ## 🧠 Motivation
 
@@ -22,17 +22,14 @@ The main goal of this repository is to investigate the use of unsupervised learn
 
 ## 📊 Dataset
 
-Experiments currently use the **Gait in Parkinson’s Disease Database (GaitPDB)**, which provides temporal gait signals collected from individuals with Parkinson’s disease and healthy controls.
-
-Due to licensing restrictions, raw datasets are not distributed in this repository.
+Experiments currently use the [**Gait in Parkinson’s Disease Database (GaitPDB)**](https://www.physionet.org/content/gaitpdb/1.0.0/), which provides temporal gait signals collected from individuals with Parkinson’s disease and healthy controls.
 
 ## 📁 Repository Structure
 
 ```
 .
-├── data/            # Data organization (raw and processed)
+├── data/            # Data organization
 ├── notebooks/       # Exploratory analysis and experimental workflows
-├── src/             # Reusable code modules (in development)
 ├── results/         # Figures, tables, and experimental outputs
 └── docs/            # Supporting documentation
 ```
